@@ -7,6 +7,6 @@ public class week1 {
         for(x=1;x<5;x++){
             System.out.println(x);
         }
-        //jidafea
+        //jidafeafhdhyu4
     }  
 }
