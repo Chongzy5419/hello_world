@@ -8,5 +8,7 @@ public class week1 {
             System.out.println(x);
         }
         //jidafeafhdhyu4
+
+        
     }  
 }

@@ -25,9 +25,8 @@ public class hi {
         else if (b>a && b>c)
             max=b;
         else if (c>a && c>b)
-            max=c;    
-        
-
+            max=c;   
+            
         if(min1+min2>max){
             if(a==b&&b==c)
             System.out.print(" Equilateral triangle");
@@ -38,8 +37,5 @@ public class hi {
         
         }
         else
-            System.out.print("Invalid triangle");
-            
-           
-    }
-}
+            System.out.print("Invalid triangle");   }
+}       
